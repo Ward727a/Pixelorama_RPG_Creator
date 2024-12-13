@@ -1,4 +1,11 @@
 <p align="center">
+    <h1 align="center">Fork made for RPG Creator</h1>
+</p>
+<p align="center">
+    This fork is made to be compatible with the RPG Creator software, there is some change to link both software together (with UDP Protocol). Appart for this, their is no other change with the original Pixelorama.
+</p>
+
+<p align="center">
     <h1 align = "center">Pixelorama - pixelate your dreams!</h1>
 </p>
 <p align="center">
